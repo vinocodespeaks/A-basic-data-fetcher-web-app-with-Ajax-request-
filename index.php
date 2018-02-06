@@ -15,7 +15,7 @@
   <header class="mdl-layout__header">
     <div class="mdl-layout__header-row">
       <!-- Title -->
-      <span class="mdl-layout-title">Natural Language Processing</span>
+      <span class="mdl-layout-title"> Instant Data Fetcher</span>
       <!-- Add spacer, to align navigation to the right -->
 
 
